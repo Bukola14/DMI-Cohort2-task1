@@ -43,4 +43,4 @@ The Domain Name System (DNS) is a system that connects domain names to their cor
 
 
 # Task 5: Visual Studio Code Setup (Hands-on)
-![VS Code Setup](./images/VSCode-setup.png)
+![VS Code Setup](./images/VSCodesetup.png)
