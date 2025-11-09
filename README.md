@@ -7,7 +7,10 @@ It covers Internet and Networking, Application Architecture, Domain and DNS mana
 # Task 1: Using ChatGPT as Your Learning Assistant
 Write a clear ChatGPT prompt to help you understand:
 “What is a protocol in networking? Explain with a simple real-life example.”
-
+![ChatGPT Screenshot 1](./images/Chatgpt1.png)
+![ChatGPT Screenshot 2](./images/Chatgpt2.png)
+![ChatGPT Screenshot 3](./images/Chatgpt%203.png)
+![ChatGPT Screenshot 4](./images/Chatgpt4.png)
 
 
 
@@ -29,16 +32,15 @@ Finally, the whole conversation happens using HTTP. Because you're safely buying
 
 # Task 3: Application Architecture & Stack
 EPIC READS TWO TIER APPLICATION ARCHITECTURE(Frontend+Database)
-
-
-
-
+![Two-tier Architecture](./images/2tierapp.png)
 
 EPIC READS THREE TIER APPLICATION ARCHITECTURE (Frontend + Backend + Database)
-
+![Three-tier Architecture](./images/3tierapp.png)
 
 
 # Task 4: Domain Name & DNS (Basic Concepts)
 The Domain Name System (DNS) is a system that connects domain names to their corresponding IP addresses, making websites easier to find and remember. Instead of typing a long numeric address like 52.172.142.222:3000, users can simply enter epicreads.com in their browser. The DNS then translates that domain name into the actual IP address where the website is hosted.This type of IP address uses A record DNS type because it is an IPv4 address and A records handle  IPv4 mapping.
 
+
 # Task 5: Visual Studio Code Setup (Hands-on)
+![VS Code Setup](./images/VSCode-setup.png)
